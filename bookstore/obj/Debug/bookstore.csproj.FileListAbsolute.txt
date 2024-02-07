@@ -1,0 +1,17 @@
+D:\_DPK\bookstore\bookstore\bin\Debug\bookstore.exe.config
+D:\_DPK\bookstore\bookstore\bin\Debug\bookstore.exe
+D:\_DPK\bookstore\bookstore\bin\Debug\bookstore.pdb
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.csproj.AssemblyReference.cache
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.csproj.SuggestedBindingRedirects.cache
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.Books.resources
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.login.resources
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.Splash.resources
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.Properties.Resources.resources
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.csproj.GenerateResource.cache
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.csproj.CoreCompileInputs.cache
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.exe
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.pdb
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.Dashboard.resources
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.Users.resources
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.Billing.resources
+D:\_DPK\bookstore\bookstore\obj\Debug\bookstore.adminlogin.resources
